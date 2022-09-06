@@ -1,0 +1,27 @@
+.container{
+    background-color: #f8fcdc;
+    border: 3px blue ridge;
+    width: 250px;
+    text-align: center;
+}
+#pantalla{
+    width: 185px; 
+    border: 2px black solid; 
+    text-align: right; 
+    position: relative; 
+    
+    padding: 0px 5px;
+    background-color: white; 
+    font-family: "courier new"; 
+    overflow: hidden;
+}
+
+
+input[type=button]{
+    text-align: center;
+    width: 35px;
+}
+input.rojo{
+    color: red;
+    width: 60px;
+}

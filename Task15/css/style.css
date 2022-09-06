@@ -1,0 +1,15 @@
+#miniaturas {
+    display: inline-grid;
+}
+
+#miniaturas img {
+    margin: 15px;
+}
+
+#ampliadas {
+    border: 1px solid;
+    float: right;
+    width: 400px;
+    height: 300px;
+    margin: center;
+}
